@@ -15,7 +15,6 @@ YASH</a></h1>
 - 🌱 I’m currently learning JS
 - 👯 I’m looking to collaborate with other developers and designers 
 - ⚡ I am also an active listener. 
-- 🌱 I’m currently doing 100 Days Of Code Challenge <a href="https://github.com/yash-agarwal12/100day" target="blank">100DaysOfCodeChallenge</a>
 
 
 - 💬 Ask me about **Web Development and Java**
