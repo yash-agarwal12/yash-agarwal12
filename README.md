@@ -21,7 +21,8 @@ YASH</a></h1>
 
 - 📫 How to reach me **yash.ag046@gmail.com** or **https://www.linkedin.com/in/yash-agarwal99/**
 
-- 📄 Know about my experiences <a href="file:///C:/Users/yasha/OneDrive/Desktop/Yash[1]offcampus.pdf" target="blank">Resume</a>
+- 📄 [Know about my experiences (Resume)](https://github.com/yash-agarwal12/yash-agarwal12/raw/main/Yash[1]offcampus.pdf)
+
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
