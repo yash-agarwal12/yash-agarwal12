@@ -11,8 +11,8 @@ YASH</a></h1>
   <img align="right" top="200" height="250" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently Working on Web Development Projects
-- 🌱 I’m currently learning JS
+- 🔭 I’m currently working as a Software Developer Intern
+- 🌱 I’ve recently learned Angular, Spring Boot, WordPress, JMeter, etc.
 - 👯 I’m looking to collaborate with other developers and designers 
 - ⚡ I am also an active listener. 
 
@@ -21,7 +21,7 @@ YASH</a></h1>
 
 - 📫 How to reach me **yash.ag046@gmail.com** or **https://www.linkedin.com/in/yash-agarwal99/**
 
-- 📄 Know about my experiences <a href="file:///C:/Users/yasha/Downloads/Yash[1].pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="file:///C:/Users/yasha/OneDrive/Desktop/Yash[1]offcampus.pdf" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
